@@ -1,0 +1,65 @@
+<style>
+	
+	body {
+		background-color: white;
+	}
+
+	h1 {
+		text-align: center;
+		color: black;
+	}
+
+	h2 {
+		color: black;
+	}
+
+	.jumbo p {
+		color: red;
+
+	}
+
+	.rambo p {
+		color: blue;
+	}
+
+	.whyme p {
+		color: green;
+	}
+
+	#funText {
+		font-size: 28px;
+	}
+
+	#runNow {
+		font-size: 9px;
+	}
+
+	.centerThis {
+		text-align: center;
+	}
+
+	.pThick {
+		font-weight: bold;
+	}
+
+	.pChange {
+		font-family: Helvetica;
+	}
+
+	#pJacked {
+		font-weight: bold;
+		font-family: Times;
+		color: orange;
+	}
+
+	.styledFont {
+		font-weight: bold;
+		font-family: Helvetica;
+		color: pink;
+	}
+
+	#styledImage {
+		border-width: 50px;
+		border-style: solid;
+		border-color: red;
+	}
